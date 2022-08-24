@@ -35,6 +35,8 @@ Note: We had initially worked on a separate repo and then, we forked the challen
 
 We thank Ayushi Dubal for her valuable insights and feedback.
 
+Presenter: Grishma Prasad (as of now). 
+
 
 ## Introduction:
 
